@@ -2,7 +2,8 @@
 
 
 
-[Horoscope Fortune Teller GUI with Python](https://github.com/KathrynMalchow/PythonGroupKHF)
+[Horoscope Fortune Teller](https://github.com/KathrynMalchow/PythonGroupKHF)
+<br /> A GUI connected to an API using Python
 
 [Replication Project](https://htmlpreview.github.io/?https://github.com/KathrynMalchow/kmprojects.github.io/blob/gh-pages/Replication_Project.html)
 <br />A replication of Anne-Marie Jeannet's study on whether the labor market competition hypothesis (opinions on immigration are affected by retirement status) holds true for 14 European countries.
