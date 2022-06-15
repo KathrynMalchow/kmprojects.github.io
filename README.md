@@ -1,6 +1,9 @@
-## Hello! Welcome to my GitHub page. Here are some of the projects I have completed:
+## Hello! Welcome to my GitHub page. Here are some of the projects I have completed or been a part of:
 
 
+
+[How did Europeans Spend Their Summer Holidays?](https://github.com/LisaPramann/tourism-trends-covid)
+<br /> A data journalism project. The article is linked on the repo ReadME.
 
 [Horoscope Fortune Teller](https://github.com/KathrynMalchow/PythonGroupKHF)
 <br /> A GUI connected to an API using Python
