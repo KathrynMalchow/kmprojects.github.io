@@ -1,5 +1,8 @@
 ## Hello! Welcome to my GitHub page. Here are some of the projects I have completed or been a part of:
 
+[Can Precision Farming be Implemented Through an App? Evaluating Farmer Reviews of Agricultural Mobile Applications](https://github.com/KathrynMalchow/Thesis_Analysis)
+<br /> Master's Thesis using Textual Analysis
+
 [Did Withdrawing from Federal Unemployment Benifits Increase Employment?](https://github.com/KathrynMalchow/Federal_Pandemic_Benefits)
 <br /> A difference in differences evaluation using U.S. unemployment rates during the Covid-19 pandemic and Corona Net data. HTML page is linked in the repo README
 
