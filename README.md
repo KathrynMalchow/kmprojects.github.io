@@ -1,9 +1,10 @@
 ## Hello! Welcome to my GitHub page. Here are some of the projects I have completed or been a part of:
 
-
+[Did Withdrawing from Federal Unemployment Benifits Increase Employment?](https://github.com/KathrynMalchow/Federal_Pandemic_Benefits)
+<br /> A difference in differences evaluation using U.S. unemployment rates during the Covid-19 pandemic and Corona Net data. HTML page is linked in the repo README
 
 [How did Europeans Spend Their Summer Holidays?](https://github.com/LisaPramann/tourism-trends-covid)
-<br /> A data journalism project. The article is linked on the repo ReadME.
+<br /> A data journalism project. The article is linked on the repo README.
 
 [Horoscope Fortune Teller](https://github.com/KathrynMalchow/PythonGroupKHF)
 <br /> A GUI connected to an API using Python
