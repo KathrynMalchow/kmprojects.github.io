@@ -1,5 +1,8 @@
 ## Hello! Welcome to my GitHub page. Here are some of the projects I have completed or been a part of:
 
+[Google Data Analytics Case Study](https://github.com/KathrynMalchow/Google-Analytics-Case-Study/tree/main)
+<br /> How do Cyclistic's customers differ from each other?
+
 [Can Precision Farming be Implemented Through an App? Evaluating Farmer Reviews of Agricultural Mobile Applications](https://github.com/KathrynMalchow/Thesis_Analysis)
 <br /> Master's Thesis using Textual Analysis.
 
